@@ -1,2 +1,2 @@
 # dbt-quickstart
-A dbt repository connected to Big Query
+Connecting dbt to google big query
